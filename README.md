@@ -104,6 +104,6 @@ See `screenshot.png`
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project successfully demonstrates basic Python concepts including user input, variables, and formatted output. The program interacts with the user and displays a friendly personalized introduction message.

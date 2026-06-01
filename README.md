@@ -9,11 +9,11 @@ The purpose of this project is to practice basic Python concepts such as user in
 
 ## 📚 What I Learned
 Through this project, I learned:
-- How to use `input()` to take user inputs
+- How to use `input()` to take user input
 - How to store values in variables
 - How to use `print()` for output
 - How to use f-strings for formatting
-- How to build a simple Python console application
+- How to build a simple Python console applications
 - How to structure a project for submission
 
 ---
